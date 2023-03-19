@@ -3,7 +3,7 @@ package mysql
 import (
 	"database/sql"
 	"github/nnnkkk7/clean-architecture-sample/internal/domain/entity"
-	"github/nnnkkk7/clean-architecture-sample/internal/repository"
+	"github/nnnkkk7/clean-architecture-sample/internal/domain/repository"
 )
 
 type userRepository struct {

@@ -2,7 +2,7 @@ package service
 
 import (
 	"github/nnnkkk7/clean-architecture-sample/internal/domain/entity"
-	"github/nnnkkk7/clean-architecture-sample/internal/repository"
+	"github/nnnkkk7/clean-architecture-sample/internal/domain/repository"
 )
 
 type userService struct {

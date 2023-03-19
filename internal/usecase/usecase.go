@@ -2,7 +2,7 @@ package usecase
 
 import (
 	"github/nnnkkk7/clean-architecture-sample/internal/domain/entity"
-	"github/nnnkkk7/clean-architecture-sample/internal/service"
+	"github/nnnkkk7/clean-architecture-sample/internal/domain/service"
 )
 
 type userUsecase struct {

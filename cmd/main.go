@@ -7,8 +7,8 @@ import (
 	"database/sql"
 
 	"github/nnnkkk7/clean-architecture-sample/cmd/handler"
+	"github/nnnkkk7/clean-architecture-sample/internal/domain/service"
 	"github/nnnkkk7/clean-architecture-sample/internal/infra/mysql"
-	"github/nnnkkk7/clean-architecture-sample/internal/service"
 	"github/nnnkkk7/clean-architecture-sample/internal/usecase"
 
 	"github.com/gorilla/mux"
